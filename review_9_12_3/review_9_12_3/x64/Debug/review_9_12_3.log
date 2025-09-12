@@ -1,0 +1,6 @@
+﻿  计算求和.c
+C:\Users\曾文港\source\repos\review_9_12_3\review_9_12_3\计算求和.c(3,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\Users\曾文港\source\repos\review_9_12_3\review_9_12_3\计算求和.c(3,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  review_9_12_3.vcxproj -> C:\Users\曾文港\source\repos\review_9_12_3\x64\Debug\review_9_12_3.exe
