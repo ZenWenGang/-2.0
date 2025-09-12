@@ -1,0 +1,6 @@
+﻿  作业.c
+D:\就业课代码\review-2.0\review_9_12_4\review_9_12_4\作业.c(2,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      D:\就业课代码\review-2.0\review_9_12_4\review_9_12_4\作业.c(2,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  review_9_12_4.vcxproj -> D:\就业课代码\review-2.0\review_9_12_4\x64\Debug\review_9_12_4.exe
