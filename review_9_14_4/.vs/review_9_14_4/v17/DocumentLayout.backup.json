@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_9_14_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183DCA50-FBB3-4E6B-BC69-C5955D2B15DE}|review_9_14_4\\review_9_14_4.vcxproj|D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_9_14_4\\review_9_14_4\\\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{183DCA50-FBB3-4E6B-BC69-C5955D2B15DE}|review_9_14_4\\review_9_14_4.vcxproj|solutionrelative:review_9_14_4\\\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c",
+              "DocumentMoniker": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_9_14_4\\review_9_14_4\\\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c",
+              "RelativeDocumentMoniker": "review_9_14_4\\\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c",
+              "ToolTip": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_9_14_4\\review_9_14_4\\\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c",
+              "RelativeToolTip": "review_9_14_4\\\u6253\u5370\u4E8C\u8FDB\u5236\u7684\u5947\u6570\u4F4D\u548C\u5076\u6570\u4F4D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-14T08:44:08.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
