@@ -1,23 +1,34 @@
+#define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
-#define _CRT_SECURE_NO_WARNINGS
-int Fib(int n)
+void funcction(int* p, int sz)
 {
-	if (n > 0 && n <= 2)
+	int* left = p;
+	int* right = p + sz - 1;
+	while (left < right)
 	{
-		return 1;
-	}
-	else
-	{
-		return n = Fib(n - 1) + Fib(n - 2);
+		while (left < right && *left % 2 != 0)
+		{
+			left++;
+		}
+		while (left < right && *right % 2 == 0)
+		{
+			right--;
+		}
+		int tmp = *left;
+		*left = *right;
+		*right = tmp;
 	}
 }
+
 int main()
 {
-	int ret = 0;
-	int n = 0;
-	printf("ÇëÊäÈën:");
-	scanf("%d", &n);
-	ret = Fib(n);
-	printf("%d", ret);
+	int arr[] = { 1,2,3,4,5,6,7,8,9 };
+
+	int sz = sizeof(arr) / sizeof(arr[0]);
+	funcction(arr, sz);
+	for (int i = 0; i < sz; i++)
+	{
+		printf("%d", arr[i]);
+	}
 	return 0;
 }
