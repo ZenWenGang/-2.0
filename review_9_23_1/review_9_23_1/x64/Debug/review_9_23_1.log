@@ -1,0 +1,20 @@
+﻿  指针练习.c
+D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(7,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(8,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(11,24): warning C4047: “函数”:“const char *”与“char (*)[7]”的间接级别不同
+D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(11,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(11,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\就业课代码\review-2.0\review_9_23_1\review_9_23_1\指针练习.c(13,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  review_9_23_1.vcxproj -> D:\就业课代码\review-2.0\review_9_23_1\x64\Debug\review_9_23_1.exe
