@@ -1,0 +1,7 @@
+﻿  模拟实现strncat.c
+D:\就业课代码\review-2.0\review_9_27_2\review_9_27_2\模拟实现strncat.c(9,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\就业课代码\review-2.0\review_9_27_2\review_9_27_2\模拟实现strncat.c(30,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“size_t *”
+      D:\就业课代码\review-2.0\review_9_27_2\review_9_27_2\模拟实现strncat.c(30,8):
+      请考虑在格式字符串中使用“%zd”
+  
+  review_9_27_2.vcxproj -> D:\就业课代码\review-2.0\review_9_27_2\x64\Debug\review_9_27_2.exe
