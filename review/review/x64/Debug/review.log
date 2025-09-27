@@ -1,6 +1,2 @@
 ﻿  打印1000-2000的闰年.c
-D:\就业课代码\review-2.0\review\review\打印1000-2000的闰年.c(10,21): warning C4013: “malloc”未定义；假设外部返回 int
-D:\就业课代码\review-2.0\review\review\打印1000-2000的闰年.c(10,14): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
-D:\就业课代码\review-2.0\review\review\打印1000-2000的闰年.c(11,5): warning C4013: “strcpy”未定义；假设外部返回 int
-D:\就业课代码\review-2.0\review\review\打印1000-2000的闰年.c(13,5): warning C4013: “free”未定义；假设外部返回 int
   review.vcxproj -> D:\就业课代码\review-2.0\review\x64\Debug\review.exe
