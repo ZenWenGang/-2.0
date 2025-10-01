@@ -29,7 +29,7 @@ int main()
 	my_memmove(arr, arr + 2, 20);
 	for (int i = 0; i < 10; i++)
 	{
-		printf("%d", arr[i]);
+		printf("%d ", arr[i]);
 	}
 	return 0;
 }
