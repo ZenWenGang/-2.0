@@ -8,14 +8,14 @@ int main()
 	{
 		perror("ptr");
 		return 1;
-	}*/
+	}
 
 	//写入26个字母
-	/*char ch;
+	char ch;
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		fputc(ch,ptr);
-	}*/
+	
 
 	//2.读文件
 	/*FILE* ptr = fopen("text.txt", "r");
