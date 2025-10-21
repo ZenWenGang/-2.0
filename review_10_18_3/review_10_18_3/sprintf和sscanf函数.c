@@ -16,7 +16,7 @@ int main()
 	sprintf(buf, "%s %d %f", s.name, s.age, s.score);
 	printf("以字符串的形式：%s\n", buf);
 
-	//将字符串里的内容写到结构体中
+	//将字符串里的内容写到结构体t中
 	struct S t = { 0 };
     sscanf(buf, "%s %d %f", t.name, &(t.age), &(t.score));
 	printf("按照格式打印：%s %d %f\n", t.name,t.age,t.score);

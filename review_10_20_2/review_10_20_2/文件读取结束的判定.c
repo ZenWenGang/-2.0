@@ -10,10 +10,9 @@
 //如果读取正常，返回的是存储取到的字符串的字符数组的地址
 //如果读取过程中遇到文件末尾，或发生错误，就返回NULL
 
-//
 int main()
 {
-    /*char ch;
+  /*  char ch;
 	for (ch = 'a'; ch <= 'g'; ch++)
 	{
 		fputc(ch, ptr);
@@ -32,11 +31,11 @@ int main()
 	}
 
 	////写文件（err）
-	//char ch = 0;
-	//for (ch = 'a'; ch <= 'z'; ch++)
-	//{
-	//	fputc(ch, ptr);
-	//}
+	/*char ch = 0;
+	for (ch = 'a'; ch <= 'z'; ch++)
+	{
+		fputc(ch, ptr);
+	}*/
 	
 	//判断原因
 	//fgetc判断是否为EOF

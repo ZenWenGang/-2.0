@@ -29,25 +29,25 @@ int main()
 	//语法：int fseek ( FILE * stream, 偏移量, int origin );
 
 	int ch = fgetc(ptr);
-	printf("读到第一个字母：%c\n", ch);//读到第一个字母a
+	//printf("读到第一个字母：%c\n", ch);//读到第一个字母a
 
-	fseek(ptr, 4, SEEK_SET);//读到从起始位置开始数4个偏移量的e
-	ch = getc(ptr);
-	printf("读到从起始位置开始数4个偏移量的：%c\n", ch);
-	//！！！指针读完一个字符会指向下一个字符
-	fseek(ptr, 0, SEEK_CUR);//读到当前指针位置的f
-	ch = getc(ptr);
-	printf("读到当前指针位置的：%c\n", ch);
-	fseek(ptr, -4, SEEK_END);//读到从末尾开始左数4个偏移量的d
-	ch = getc(ptr);
-	printf("读到从末尾开始左数4个偏移量的：%c\n", ch);
+	//fseek(ptr, 4, SEEK_SET);//读到从起始位置开始数4个偏移量的e
+	//ch = getc(ptr);
+	//printf("读到从起始位置开始数4个偏移量的：%c\n", ch);
+	//////！！！指针读完一个字符会指向下一个字符
+	//fseek(ptr, 0, SEEK_CUR);//读到当前指针位置的f
+	//ch = getc(ptr);
+	//printf("读到当前指针位置的：%c\n", ch);
+	//fseek(ptr, -4, SEEK_END);//读到从末尾开始左数4个偏移量的d
+	//ch = getc(ptr);
+	//printf("读到从末尾开始左数4个偏移量的：%c\n", ch);
 
 
 	//ftell:返回⽂件指针相对于起始位置的偏移量
 	//语法：long int ftell ( FILE * stream );
-	fseek(ptr, 0, SEEK_END);//从末尾开始到起始位置的偏移量
-	ch = getc(ptr);
-	printf("当前文件长度：%d\n", ftell(ptr));
+	//fseek(ptr, 0, SEEK_END);//从末尾开始到起始位置的偏移量
+	//ch = getc(ptr);
+	//printf("当前文件长度：%d\n", ftell(ptr));
 
 
 	//rewind：让⽂件指针的位置回到⽂件的起始位置
