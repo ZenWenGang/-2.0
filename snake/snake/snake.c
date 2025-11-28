@@ -56,7 +56,7 @@ void CreateMap()
 	}
 	
 }
-////初始化蛇身
+//初始化蛇身
 void InitSnake(pSnake ps)
 {
 	int i = 0;

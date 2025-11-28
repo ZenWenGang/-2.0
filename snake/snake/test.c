@@ -29,10 +29,10 @@ int main()
 {
 	//设置适配本地环境
 	setlocale(LC_ALL, "");
-	srand((unsigned int)time(NULL));
+	srand((unsigned int)time(NULL));//食物随机刷新要用到的函数
 	test();
 	return 0;
 }
-//遇到的问题：1.sleep的s是大写S;
-//            2.cur=cur->next写成cur->next=cur;
-//纠正以上问题后还报错重启电脑就能解决
+////遇到的问题：1.sleep的s是大写S;
+////            2.cur=cur->next写成cur->next=cur;
+////纠正以上问题后还报错重启电脑就能解决

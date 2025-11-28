@@ -1,62 +1,72 @@
-#define _CRT_SECURE_NO_WARNINGS 1
+ï»¿#define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
 #include<Windows.h>
 #include<stdbool.h>
-//systemº¯Êı¿ÉÒÔÖ´ĞĞÏµÍ³ÃüÁî
+//systemå‡½æ•°å¯ä»¥æ‰§è¡Œç³»ç»Ÿå‘½ä»¤
 //int main() 
 //{
-//	//ÉèÖÃ¿ØÖÆÌ¨Ïà¹ØÊôĞÔ
+//	//è®¾ç½®æ§åˆ¶å°ç›¸å…³å±æ€§
 //	system("mode con cols=100 lines=30");
-//	system("title Ì°³ÔÉß");
+//	system("title è´ªåƒè›‡");
+//	//è¿™é‡Œèƒ½å¤Ÿåœä¸‹æ¥è®©æˆ‘ä»¬è§‚å¯Ÿæ§åˆ¶å°
+//	return 0;
+//}
+
+
+////æ§åˆ¶å°å®šä½åæ ‡
+//int main()
+//{
+//	system("mode con cols=100 lines=30");
+//	system("title è´ªåƒè›‡");
+//	COORD pos = { 10, 5 };
+//	HANDLE hOutput = NULL;
+//	//è·å–æ ‡å‡†è¾“å‡ºçš„å¥æŸ„(â½¤æ¥æ ‡è¯†ä¸åŒè®¾å¤‡çš„æ•°å€¼)
+//	hOutput = GetStdHandle(STD_OUTPUT_HANDLE);
+//	//è®¾ç½®æ ‡å‡†è¾“å‡ºä¸Šå…‰æ ‡çš„ä½ç½®ä¸ºpos
+//	SetConsoleCursorPosition(hOutput, pos);
 //	getchar();
 //	return 0;
 //}
 
-
-//¿ØÖÆÌ¨¶¨Î»×ø±ê
-
 //int main()
 //{
-//	COORD pos = { 0,0 };//Ê¹ÓÃ¸Ãº¯Êı±ØĞë°üº¬windowsÍ·ÎÄ¼ş
-//
-//	return 0;
-//}
-
-//int main()
-//{
-//	//»ñµÃ±ê×¼Êä³öÉè±¸µÄ¾ä±ú
+//	system("mode con cols=100 lines=30");
+//	system("title è´ªåƒè›‡");
+//	//è·å¾—æ ‡å‡†è¾“å‡ºè®¾å¤‡çš„å¥æŸ„
 //	HANDLE houtput = NULL;
 //	houtput =GetStdHandle(STD_OUTPUT_HANDLE);
-//	//¶¨ÒåÒ»¸ö¹â±êĞÅÏ¢µÄ½á¹¹Ìå
-//	CONSOLE_CURSOR_INFO cursor_info = { 0 ,};//¹â±êĞÅÏ¢
-//	//»ñÈ¡ºÍhoutput¾ä±şÏà¹ØµÄ¿ØÖÆÌ¨ÉÏµÄĞÅÏ¢£¬´æ·ÅÔÚcursor_infoÖĞ
-//	GetConsoleCursorInfo(houtput, &cursor_info);//»ñÈ¡ÏàÓ¦¿ØÖÆÌ¨¹â±êµÄĞÅÏ¢
-//	//ĞŞ¸Ä¹â±ê°Ù·Ö±È
+//	//å®šä¹‰ä¸€ä¸ªå…‰æ ‡ä¿¡æ¯çš„ç»“æ„ä½“
+//	CONSOLE_CURSOR_INFO cursor_info = { 0 ,0};//å…‰æ ‡ä¿¡æ¯
+//	//è·å–å’Œhoutputå¥ç‚³ç›¸å…³çš„æ§åˆ¶å°ä¸Šçš„ä¿¡æ¯ï¼Œå­˜æ”¾åœ¨cursor_infoä¸­
+//	GetConsoleCursorInfo(houtput, &cursor_info);//è·å–ç›¸åº”æ§åˆ¶å°å…‰æ ‡çš„ä¿¡æ¯
+//	//ä¿®æ”¹å…‰æ ‡ç™¾åˆ†æ¯”
 //	//cursor_info.dwSize = 50;
 //
-//	//ĞŞ¸Ä¹â±êÊÇ·ñÒş²Ø
-//	cursor_info.bVisible = false;//Ê¹ÓÃfalseÒª°üº¬Í·ÎÄ¼şstdbool.h
-//	//ÉèÖÃºÍhoutput¾ä±úÏà¹ØµÄ¿ØÖÆÌ¨ÉÏµÄ¹â±êĞÅÏ¢
+//	//ä¿®æ”¹å…‰æ ‡æ˜¯å¦éšè—
+//	cursor_info.bVisible = false;//ä½¿ç”¨falseè¦åŒ…å«å¤´æ–‡ä»¶stdbool.h
+//	//è®¾ç½®å’Œhoutputå¥æŸ„ç›¸å…³çš„æ§åˆ¶å°ä¸Šçš„å…‰æ ‡ä¿¡æ¯
 //	SetConsoleCursorInfo(houtput, &cursor_info);
 //
-//	system("pause");
+//	
 //	return 0;
 //}
 
-//·â×°Ò»¸öÉèÖÃ¹â±êÎ»ÖÃµÄº¯Êı
+//å°è£…ä¸€ä¸ªè®¾ç½®å…‰æ ‡ä½ç½®çš„å‡½æ•°
 //void set_pos(short x, short y)
 //{
-////»ñµÃ±ê×¼Êä³öÉè±¸µÄ¾ä±ú
+//    //è·å¾—æ ‡å‡†è¾“å‡ºè®¾å¤‡çš„å¥æŸ„
 //	HANDLE houtput = NULL;
 //	houtput = GetStdHandle(STD_OUTPUT_HANDLE);
-//	//¶¨Î»¹â±êµÄÎ»ÖÃ
+//	//å®šä½å…‰æ ‡çš„ä½ç½®
 //	COORD pos = { x,y };
 //	SetConsoleCursorPosition(houtput, pos); 
 //}
-
+//
 //int main()
 //{
+//	system("mode con cols=100 lines=30");
+//	system("title è´ªåƒè›‡");
 //	set_pos(10, 20);
 //	printf("hehe\n");
 //
@@ -67,16 +77,77 @@
 //	return 0;
 //}
 
-//#include<locale.h>
+#include<locale.h>
 //int main()
 //{
-//    setlocale(LC_ALL, "");//±¾µØÄ£Ê½
-//	wchar_t wc1 = L'±È';
-//	wchar_t wc2 = L'ÌØ';
+//	char* ret = setlocale(LC_ALL, NULL);
+//	printf("%s\n", ret);
 //
+//	ret = setlocale(LC_ALL, "");//æœ¬åœ°åŒ–
+//	printf("%s", ret);
+//	return 0;
+//}
+//int main()
+//{
+//	setlocale(LC_ALL, "C");
+//
+//    setlocale(LC_ALL, "");//æœ¬åœ°æ¨¡å¼
+//	wchar_t wc1 = L'ä½ ';
+//	wchar_t wc2 = L'å¥½';
+//	
+//	printf("%c%c\n",'a','b');
 //	wprintf(L"%lc\n",wc1 );
 //	wprintf(L"%lc\n", wc2);
-//	wprintf(L"%lc\n", L'¡ï');
-//	wprintf(L"%lc\n", L'¡ñ');
+//	wprintf(L"%lc\n", L'â˜…');
+//	wprintf(L"%lc\n", L'â—');
 //	return 0;
+//}
+
+//#define KEY_PRESS(VK)  ( (GetAsyncKeyState(VK) & 0x1) ? 1 : 0 )
+//int main()
+//{
+//    while (1)
+//    {
+//        if (KEY_PRESS(0x30))
+//        {
+//            printf("0\n");
+//        }
+//        else if (KEY_PRESS(0x31))
+//        {
+//            printf("1\n");
+//        }
+//        else if (KEY_PRESS(0x32))
+//        {
+//            printf("2\n");
+//        }
+//        else if (KEY_PRESS(0x33))
+//        {
+//            printf("3\n");
+//        }
+//        else if (KEY_PRESS(0x34))
+//        {
+//            printf("4\n");
+//        }
+//        else if (KEY_PRESS(0x35))
+//        {
+//            printf("5\n");
+//        }
+//        else if (KEY_PRESS(0x36))
+//        {
+//            printf("6\n");
+//        }
+//        else if (KEY_PRESS(0x37))
+//        {
+//            printf("7\n");
+//        }
+//        else if (KEY_PRESS(0x38))
+//        {
+//            printf("8\n");
+//        }
+//        else if (KEY_PRESS(0x39))
+//        {
+//            printf("9\n");
+//        }
+//    }
+//    return 0;
 //}

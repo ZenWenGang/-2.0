@@ -4,11 +4,14 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<time.h>
+//下面方便后期更改做出的各数值定义
+//初始蛇身坐标
 #define POS_X 24
 #define POS_Y 5
-#define WALL L'□'
-#define BODY L'●'
-#define FOOD L'☆'
+
+#define WALL L'□'//墙的形状
+#define BODY L'●'//蛇身形状
+#define FOOD L'☆'//食物形状
 //类型的声明
 
 //蛇的方向
