@@ -2,13 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	unsigned int n = 0, count = 0;
-	scanf("%d", & n);
-	while (n)
-	{
-		if (n % 2 == 1)
-			count++;
-		n /= 2;
-	}
+	int a = 1, b = 2;
+	int count = (a + 3, b = a + b, b + 5, a + b);
 	printf("%d", count);
 }
