@@ -1,0 +1,6 @@
+﻿  结构体练习1.c
+D:\就业课代码\review-2.0\review_10_10_1\review_10_10_1\结构体练习1.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\就业课代码\review-2.0\review_10_10_1\review_10_10_1\结构体练习1.c(17,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  review_10_10_1.vcxproj -> D:\就业课代码\review-2.0\review_10_10_1\x64\Debug\review_10_10_1.exe

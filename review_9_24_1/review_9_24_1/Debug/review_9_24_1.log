@@ -1,0 +1,3 @@
+﻿  指针加减练习.c
+D:\就业课代码\review-2.0\review_9_24_1\review_9_24_1\指针加减练习.c(17,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+  review_9_24_1.vcxproj -> D:\就业课代码\review-2.0\review_9_24_1\Debug\review_9_24_1.exe

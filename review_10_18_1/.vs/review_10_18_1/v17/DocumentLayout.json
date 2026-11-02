@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\review_10_18_1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:review_10_18_1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D450FD47-FE2E-426E-A1E9-F5B11C328E52}|review_10_18_1\\review_10_18_1.vcxproj|D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\review_10_18_1\\\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D450FD47-FE2E-426E-A1E9-F5B11C328E52}|review_10_18_1\\review_10_18_1.vcxproj|solutionrelative:review_10_18_1\\\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.txt",
+              "DocumentMoniker": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\review_10_18_1\\test.txt",
+              "RelativeDocumentMoniker": "review_10_18_1\\test.txt",
+              "ToolTip": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\review_10_18_1\\test.txt",
+              "RelativeToolTip": "review_10_18_1\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-18T14:13:08.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c",
+              "DocumentMoniker": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\review_10_18_1\\\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c",
+              "RelativeDocumentMoniker": "review_10_18_1\\\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c",
+              "ToolTip": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_18_1\\review_10_18_1\\\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c",
+              "RelativeToolTip": "review_10_18_1\\\u683C\u5F0F\u5316\u8F93\u5165\u51FD\u6570.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-18T13:55:28.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

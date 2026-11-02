@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_13_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7274E4-A883-4A1A-9A94-E8F444FC7BF1}|review_10_13_1\\review_10_13_1.vcxproj|D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_13_1\\review_10_13_1\\\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC7274E4-A883-4A1A-9A94-E8F444FC7BF1}|review_10_13_1\\review_10_13_1.vcxproj|solutionrelative:review_10_13_1\\\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c",
+              "DocumentMoniker": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_13_1\\review_10_13_1\\\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c",
+              "RelativeDocumentMoniker": "review_10_13_1\\\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c",
+              "ToolTip": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_10_13_1\\review_10_13_1\\\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c",
+              "RelativeToolTip": "review_10_13_1\\\u7528\u679A\u4E3E\u5B9E\u73B0\u8BA1\u7B97\u5668.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-13T03:30:47.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

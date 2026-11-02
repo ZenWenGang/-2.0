@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_11_28_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB13D0-958A-49FA-B369-49960B6EF860}|review_11_28_2\\review_11_28_2.vcxproj|D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_11_28_2\\review_11_28_2\\\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CCB13D0-958A-49FA-B369-49960B6EF860}|review_11_28_2\\review_11_28_2.vcxproj|solutionrelative:review_11_28_2\\\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c",
+              "DocumentMoniker": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_11_28_2\\review_11_28_2\\\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c",
+              "RelativeDocumentMoniker": "review_11_28_2\\\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c",
+              "ToolTip": "D:\\\u5C31\u4E1A\u8BFE\u4EE3\u7801\\review-2.0\\review_11_28_2\\review_11_28_2\\\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c",
+              "RelativeToolTip": "review_11_28_2\\\u7EDF\u8BA1\u4E00\u4E2A\u6570\u5B57\u7684\u4E8C\u8FDB\u5236\u4E2D1\u7684\u4E2A\u6570.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-28T09:17:43.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

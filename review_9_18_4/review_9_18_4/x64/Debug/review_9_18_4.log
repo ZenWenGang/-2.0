@@ -1,0 +1,4 @@
+﻿  字符串旋转后比较.c
+D:\就业课代码\review-2.0\review_9_18_4\review_9_18_4\字符串旋转后比较.c(5,12): warning C4013: “strlen”未定义；假设外部返回 int
+D:\就业课代码\review-2.0\review_9_18_4\review_9_18_4\字符串旋转后比较.c(15,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  review_9_18_4.vcxproj -> D:\就业课代码\review-2.0\review_9_18_4\x64\Debug\review_9_18_4.exe
