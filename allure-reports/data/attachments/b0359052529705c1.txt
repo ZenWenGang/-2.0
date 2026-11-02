@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:request_util.py:19 准备发起post请求,url:http://192.168.202.128:9090/blog/getList
+[32mINFO    [0m utils.logger_util:request_util.py:20 接口信息：{}
+[32mINFO    [0m utils.logger_util:request_util.py:24 接口响应状态码：401
+[32mINFO    [0m utils.logger_util:request_util.py:25 接口响应内容:

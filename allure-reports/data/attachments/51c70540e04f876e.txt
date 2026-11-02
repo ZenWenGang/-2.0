@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:request_util.py:9 准备发起get请求,url:http://192.168.202.128:9090/user/login
+[32mINFO    [0m utils.logger_util:request_util.py:10 接口信息：{'params': {'username': 'lisi', 'password': '', 'errMsg': '账号或密码不能为空'}}
+[32mINFO    [0m utils.logger_util:request_util.py:14 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:request_util.py:15 接口响应内容:{"code":"FAIL","errMsg":"账号或密码不能为空","data":null}

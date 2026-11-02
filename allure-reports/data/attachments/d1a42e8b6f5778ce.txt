@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:request_util.py:9 准备发起get请求,url:http://192.168.202.128:9090/user/getUserInfo
+[32mINFO    [0m utils.logger_util:request_util.py:10 接口信息：{}
+[32mINFO    [0m utils.logger_util:request_util.py:14 接口响应状态码：401
+[32mINFO    [0m utils.logger_util:request_util.py:15 接口响应内容:

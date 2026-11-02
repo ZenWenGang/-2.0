@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:request_util.py:9 准备发起get请求,url:http://192.168.202.128:9090/user/getAuthorInfo?blogId=55555
+[32mINFO    [0m utils.logger_util:request_util.py:10 接口信息：{'headers': {'User_token_header': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6NCwidXNlck5hbWUiOiJsaXNpIiwiZXhwIjoxNzkzMzU0MDc5fQ.Ch-AdJrVBsVPWEII7IkYlMe5oZh4LRJtcmjqyXpu2UQ'}}
+[32mINFO    [0m utils.logger_util:request_util.py:14 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:request_util.py:15 接口响应内容:{"code":"FAIL","errMsg":"内部错误, 请联系管理员","data":null}
