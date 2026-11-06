@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:requests_util.py:11 准备发起get请求,url:http://192.168.202.128/?s=user/login&system_type=default 
+[32mINFO    [0m utils.logger_util:requests_util.py:12 接口信息：{'files': {'accounts': (None, '+++'), 'pwd': (None, '---'), 'type': (None, 'username')}}
+[32mINFO    [0m utils.logger_util:requests_util.py:16 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:requests_util.py:17 接口响应内容：{"msg":"登录类型有误","code":-1,"data":""}

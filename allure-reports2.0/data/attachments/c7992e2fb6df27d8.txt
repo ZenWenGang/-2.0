@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:requests_util.py:11 准备发起get请求,url:http://192.168.202.128/?s=ueditor/index/path_type/public.html&action=config&noCache=1793873889801
+[32mINFO    [0m utils.logger_util:requests_util.py:12 接口信息：{'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36', 'X-Requested-With': 'XMLHttpRequest'}}
+[32mINFO    [0m utils.logger_util:requests_util.py:16 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:requests_util.py:17 接口响应内容：{"msg":"\u767b\u5f55\u5931\u6548\uff0c\u8bf7\u91cd\u65b0\u767b\u5f55","code":-400,"data":"http:\/\/192.168.202.128\/?s=user\/logininfo.html"}

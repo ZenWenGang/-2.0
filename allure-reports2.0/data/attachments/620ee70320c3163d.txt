@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:requests_util.py:22 准备发起post04请求,url:http://192.168.202.128/?s=cart/save&system_type=default
+[32mINFO    [0m utils.logger_util:requests_util.py:23 接口信息：{'cookies': {'PHPSESSID': 'b830319aef732e7a7bc6b63ce111b74f', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0', 'X-Requested-With': 'XMLHttpRequest'}, 'files': {'goods_data': (None, 'W3siZ29vZHNfaWQiOiIzMiIsInN0b2NrIjoxLCJzcGVjIjpbXX1d')}}
+[32mINFO    [0m utils.logger_util:requests_util.py:27 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:requests_util.py:28 接口响应内容：{"msg":"加入成功","code":0,"data":{"total_price":"2600.00","buy_number":"1"}}

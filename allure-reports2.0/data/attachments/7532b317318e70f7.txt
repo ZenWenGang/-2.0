@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:requests_util.py:22 准备发起post04请求,url:http://192.168.202.128/?s=user/reg&system_type=default
+[32mINFO    [0m utils.logger_util:requests_util.py:23 接口信息：{'files': {'accounts': (None, ''), 'pwd': (None, '123456'), 'type': (None, 'username'), 'is_agree_agreement': (None, '1')}}
+[32mINFO    [0m utils.logger_util:requests_util.py:27 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:requests_util.py:28 接口响应内容：{"msg":"账号不能为空","code":-1,"data":""}

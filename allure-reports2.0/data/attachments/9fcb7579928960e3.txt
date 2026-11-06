@@ -1,0 +1,4 @@
+[32mINFO    [0m utils.logger_util:requests_util.py:22 准备发起post04请求,url:http://192.168.202.128/?s=goods/favor&system_type=default
+[32mINFO    [0m utils.logger_util:requests_util.py:23 接口信息：{'cookies': {'PHPSESSID': 'b830319aef732e7a7bc6b63ce111b74f', 'User-Agent': 'Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Edg/156.0.0.0 Mobile Safari/537.36', 'X-Requested-With': 'XMLHttpRequest'}, 'data': {'id': 25}}
+[32mINFO    [0m utils.logger_util:requests_util.py:27 接口响应状态码：200
+[32mINFO    [0m utils.logger_util:requests_util.py:28 接口响应内容：{"msg":"收藏成功","code":0,"data":{"text":"已收藏","status":1,"count":4}}
